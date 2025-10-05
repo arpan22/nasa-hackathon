@@ -1,0 +1,9 @@
+pandas
+numpy
+folium
+branca
+earthaccess
+matplotlib
+requests
+xarray
+flask
